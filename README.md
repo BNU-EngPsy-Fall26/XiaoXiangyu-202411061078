@@ -1,6 +1,7 @@
 # 作业二 · 注意实验：复现 + 改进
 
 > 专注计数（Most et al., 2001）与"你在这里"地图（Levine, 1982）的网页复现 + 改进。
+> **在线试玩（GitHub Pages）**&#8203;：https://bnu-engpsy-fall26.github.io/XiaoXiangyu-202411061078/
 > **运行方法：双击 `index.html` 即可（需联网，用于上传数据）。** 无需安装任何依赖。
 
 - **项目码**：`Q6ZCCR`（已写入 index.html 第 1 处 `const PROJECT`）
